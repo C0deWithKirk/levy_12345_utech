@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kirk Levy | Portfolio</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+
+    <header>
+        
+        <h1>Kirk Levy</h1>
+        <p>Aspiring Software Developer</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="resume.html">Resume</a>
+        <a href="personality.html">Personality</a>
+        <a href="reflections.html">Reflections</a>
+    </nav>
+
+    <main class="container">
+        <!-- Q1: Demographic Data & Image Link -->
+        <section id="about" class="card">
+            <h2>Welcome to my Portfolio</h2>
+
+            <a href="mailto:Kirklevy21@gmail.com">
+                <img src="kirkl.jpeg" height= 100 class="profile-img">
+            </a>
+
+            <p><strong>Name:</strong> Kirk Levy</p>
+            <p><strong>Email:</strong> Kirklevy21@gmail.com</p>
+            <p><strong>Phone:</strong> 876-410-7755</p>
+            <p><strong>Institution:</strong> University of Technology, Jamaica</p>
+        </section>
+
+        <!-- Q3: External Link -->
+        <section class="card">
+            <h3>Link to Schools website</h3>
+            <ul>
+                <li>
+                    <a href="https://www.utech.edu.jm/" target="_blank" rel="noopener noreferrer">
+                        University of Technology
+                    </a>
+                </li>
+               
+            </ul>
+        </section>
+    </main>
+
+    <footer id="main-footer">
+        <p> 2026 Kirk Levy | UTech Student</p>
+    </footer>
+
+</body>
+</html>

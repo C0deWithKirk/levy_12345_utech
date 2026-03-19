@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Reflections | Kirk Levy</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="resume.html">Resume</a>
+        <a href="personality.html">Personality</a>
+        <a href="reflections.html">Reflections</a>
+    </nav>
+
+    <main class="container">
+       
+
+        <section class="card">
+            <h2>"Twelve Pillars" Summary</h2>
+            <h3>Chapter 4: Achieve Your Goals</h3>
+            <p>It is where Charlie explains to Michael that the true value of goals isn’t just reaching them  it’s what you become in the process of pursuing them. He also tells the importance of writing down your goals because it becomes real and makes your mind to work toward them.It teaches me that pursuing goals shapes who you become, and writing them down helps your mind work toward achieving them. </p>
+            <h3>Chapter 5: The Proper Use of Time</h3>
+            <p>Teaches us how to manage our time and that time is limited and it waits on no man. It also teaches us that successful people focus on things that bring real value and not wasting time on distractions. What I learnt is that you must use every second like its your last</p>
+            <h3>Chapter 6: Trust and Etegrity</h3>
+            <p>Trust is earned and not demanded showing how reliability over time build credibility and that I should lead by example because it encourages people to do the same.</p>
+            <h3>Chapter 7: Personal responsibility and initiative</h3>
+            <p>It says that successful leaders don’t wait for circumstances to dictate their actions—they take charge of their own growth, decisions, and outcomes. I learnd that it teaches in taking responsibility for your own actions and learning is key to success</p>
+        </section>
+
+        <section class="card">
+            <h2>References (APA)</h2>
+            <p>Rohn, J., & Widener, C. (2005). <em>Twelve Pillars</em>. Jim Rohn International.</p>
+            <p>Biography.com Editors. (2023). <em>Muhammad Ali Biography</em>.</p>
+        </section>
+    </main>
+</body>
+</html>

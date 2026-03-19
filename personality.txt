@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personality | Kirk Levy</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="resume.html">Resume</a>
+        <a href="personality.html">Personality</a>
+        <a href="reflections.html">Reflections</a>
+    </nav>
+
+    <main class="container">
+        <section class="card">
+            <h2>Strongest Personality Traits</h2>
+            <div class="grid-container">
+                <div class="card">
+                    <h3>Friendly and Easy to be around</h3>
+                    <p>I treat people kindly and make them feel comfortable, regardless of their race or ethnic background. Others enjoy being around me because I am warm, respectful, and easy to get along with, which helps create a healthy environment where I can work well with others.</p>
+                </div>
+                <div class="card">
+                    <h3>Resilience</h3>
+                    <p>I am someone who tackles things head first and my saying is “If at first you don’t succeed, try, try again.”</p>
+                </div>
+                <div class="card">
+                    <h3>Adaptabiltiy</h3>
+                    <p>Adaptability: I can adjust to new situations, challenges, or changes in my environment quickly, which helps me handle schoolwork, projects, and unexpected tasks more effectively.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="card" id="hero">
+            <h3>My Hero: Muhammad Ali</h3>
+            <p>Muhammad Ali was a legendary American boxer. I look up to him because he was not only a champion in the ring but a man of immense conviction who stood up for his beliefs despite the cost.</p>
+        </section>
+            <p><em>" Friendship is a priceless gift that cannot be bought nor sold, but its value is far greater than a mountain made of gold. For gold is cold and lifeless. It can neither see nor hear. In times of trouble, it's powerless cheer. It has no ears to listen, no heart to understand. It cannot bring you comfort or reach out a helping hand. So when you ask God for a gift, be thankful if sends not diamonds, pearls, or riches but the love of real, true friends."</em></p>
+            
+    </main>
+</body>
+</html>

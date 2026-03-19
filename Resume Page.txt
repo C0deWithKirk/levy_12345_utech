@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume | Kirk Levy</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="resume.html">Resume</a>
+        <a href="personality.html">Personality</a>
+        <a href="reflections.html">Reflections</a>
+    </nav>
+
+    <main class="container">
+        <section class="card">
+            <h2>Vision Statement</h2>
+            <p>My vision is to become a successful remote senior software developer who is financially stable and able to live a comfortable and fulfilling life...</p>
+            
+            <h2>Mission Statement</h2>
+            <p>My mission is to continuously improve my programming and problem-solving skills by staying dedicated to my studies...</p>
+        </section>
+
+        <section class="card">
+            <h2>Work Experience</h2>
+            <ul>
+                <li><strong>Finance Assistant</strong> - HEART College (August 2024)</li>
+                <li><strong>Library Assistant</strong> - HEART College (August 2025)</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Academic History</h2>
+            <table>
+                <tr>
+                    <th>Institution</th>
+                    <th>Period</th>
+                </tr>
+                <tr><td>Wolmer’s Preparatory</td><td>2010 – 2018</td></tr>
+                <tr><td>Gaynstead High</td><td>2018 – 2019</td></tr>
+                <tr><td>Excelsior High</td><td>2019 – 2023</td></tr>
+                <tr><td>UTech, Jamaica</td><td>2024 – Present</td></tr>
+            </table>
+        </section>
+    </main>
+</body>
+</html>
